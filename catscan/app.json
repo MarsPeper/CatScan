@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "catscan",
-    "slug": "catscan",
+    "name": "CatScan",
+    "slug": "CatScan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,15 +31,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "router": {
-        "origin": false
-      },
-      "eas": {
-        "projectId": "12d6cc48-997f-4d29-a353-e02960d72408"
-      }
-    },
-    "owner": "locdevx"
+    }
   }
 }
